@@ -1,4 +1,4 @@
-# Java Spring Starter template (Update)
+# Java Spring Starter template (Update lan 2)
 Template này được sử dụng cho series Java Spring MVC (dự án laptopshop) của tác giả Hỏi Dân IT (Eric)
 
 ## Về tác giả
